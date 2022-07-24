@@ -1,4 +1,4 @@
-### Hi, im Thiago! 👋
+### Hi, I'm Thiago! 👋
 
 - 🔭 I’m currently working on web development with React and NodeJS (Typescript)
 - 🌱 I’m currently learning Java
