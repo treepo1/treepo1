@@ -1,7 +1,7 @@
 ### Hi, I'm Thiago! 👋
 
 - 🔭 I’m currently working on web development with React and NodeJS (Typescript)
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Elixir
 - ⚡ Fun fact: I love the name 'Nelson'
 
 <div align="center">
